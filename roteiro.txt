@@ -1,0 +1,15 @@
+- criar uma pasta para o app
+- login no github
+-- start new repository public (nome do repositório)
+-- abrir o terminal do vs code com git bash
+-- copiar o passo a passo do "or create a new repository on the command line"
+-- colar no terminal e <enter>
+-- sign in at github
+
+- criar uma aplicação mínima com o Flask
+-- criar main.py (hello world in Flask)
+
+- subir a aplicação para o railway.app e testar
+- criar o frontend
+- criar o backend
+- salvar o modelo treinado
